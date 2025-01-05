@@ -19,17 +19,17 @@
             "path": [
                 "{PROJECT_DIR}/resource"
             ]
-        },
-        {
+        }
+        /*{
             "name": "B 服",
             "path": [
                 "{PROJECT_DIR}/resource",
                 "{PROJECT_DIR}/resource_bilibili"
             ]
-        }
+        }*/
     ],
     "task": [
-        {
+        /*{
             "name": "普通任务",
             "entry": "MyTask1"
         },
@@ -47,6 +47,11 @@
                 "任务选项1"
             ],
             "pipeline_override": {}
+        },
+        */
+        {
+            "name":"出陣T",
+            "entry": "task1"
         }
     ],
     "option": {
